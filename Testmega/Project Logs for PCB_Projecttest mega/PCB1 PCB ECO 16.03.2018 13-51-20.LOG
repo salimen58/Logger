@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=P3(MMCX2.54-V5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.amphenolrf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "30-May-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Corresponds to nominal value."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "15-Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Component Replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Rev. A, 16-Jun-1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "908-21103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U2(CAM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "u-blox CAM GNSS antenna module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CAM-M8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=VCC Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=RDX Pin=U2-25
+Added Pin To Net: NetName=TDX Pin=U2-26
+Added Pin To Net: NetName=RF_OUT Pin=P3-1
+Added Pin To Net: NetName=RF_OUT Pin=U2-16
+Added Net: Name=RF_OUT

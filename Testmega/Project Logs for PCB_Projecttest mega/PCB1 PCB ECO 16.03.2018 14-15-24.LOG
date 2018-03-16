@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U2-14
+Removed Pin From Net: NetName=RF_OUT Pin=U2-16
+Removed Pin From Net: NetName=RDX Pin=U2-25
+Removed Pin From Net: NetName=TDX Pin=U2-26
+Change Component Comment : Designator=U2 Old Comment=CAM-M8 New Comment=uBlox NEO-6Q
+Change component parameters: Designator = "U2"; Footprint = "NEO_6"; UniqueID = "\GJWCJIQF"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=RF_OUT Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=RDX Pin=U2-20
+Added Pin To Net: NetName=TDX Pin=U2-21
+Added Pin To Net: NetName=VCC Pin=U2-23
