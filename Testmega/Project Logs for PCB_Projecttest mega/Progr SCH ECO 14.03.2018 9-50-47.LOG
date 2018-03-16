@@ -1,0 +1,6 @@
+Remove Pin=P2-8 From Net=GND
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X10 New Footprint=HDR1X8
+Change Pin Designator/Name:  Old Designator=R1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R1-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=U1-3 Old Name=GND New Designator =GND New Name=21
+Change Pin Designator/Name:  Old Designator=U1-21 Old Name=GND New Designator =GND New Name=3

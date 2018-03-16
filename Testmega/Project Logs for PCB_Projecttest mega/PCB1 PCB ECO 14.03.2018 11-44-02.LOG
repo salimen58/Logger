@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MOSI Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-8
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 10 New DesignItemId=Header 8
+Change Component Description : Designator=P2 Old Description=Header, 10-Pin New Description=Header, 8-Pin
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=MOSI Pin=P2-8

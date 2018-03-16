@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=VCC Pin=U1-6
+Removed Pin From Net: NetName=MOSI Pin=U1-15
+Removed Pin From Net: NetName=MISO Pin=U1-16
+Removed Pin From Net: NetName=SCK Pin=U1-17
+Removed Pin From Net: NetName=VCC Pin=U1-18
+Removed Pin From Net: NetName=NetP1_1 Pin=U1-19
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Pin From Net: NetName=NetP1_2 Pin=U1-22
+Removed Pin From Net: NetName=RESET Pin=U1-29
+Removed Pin From Net: NetName=NetR2_1 Pin=U1-30
+Removed Pin From Net: NetName=NetR3_1 Pin=U1-31
+Added Component: Designator=U?(32A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-026-ABA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "ATmega8(L)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2486.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ATmega8(L) Summary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/2486S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revZ, Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "32-Lead, 7x7x1.0 mm Body, 0.8mm Lead Pitch, Thin Profile Plastic Quad Flat Package (TQFP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "32A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revC, Oct-2010"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=VCC Pin=U?-6
+Added Pin To Net: NetName=MOSI Pin=U?-15
+Added Pin To Net: NetName=MISO Pin=U?-16
+Added Pin To Net: NetName=SCK Pin=U?-17
+Added Pin To Net: NetName=VCC Pin=U?-18
+Added Pin To Net: NetName=NetP1_1 Pin=U?-19
+Added Pin To Net: NetName=NetP1_2 Pin=U?-22
+Added Pin To Net: NetName=RESET Pin=U?-29
+Added Pin To Net: NetName=NetR2_1 Pin=U?-30
+Added Pin To Net: NetName=NetR3_1 Pin=U?-31
